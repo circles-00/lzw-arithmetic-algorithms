@@ -1,0 +1,19 @@
+{
+  "name": "lab-ms-196011",
+  "version": "1.0.0",
+  "description": "Laboratory exercises for the subject multimedia systems FINKI",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon -e ts -x ts-node --project tsconfig.json index.ts",
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Nikola Krezeski",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "ts-node": "^10.8.1"
+  }
+}
