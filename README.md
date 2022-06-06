@@ -17,6 +17,7 @@ Customize file index.ts for you to be able to change the test data
 
 ## TODO
 - Let the user input test cases
+- Restructure code
 
 ## Author:
 ### Nikola Krezeski 196011 - KN
